@@ -1,0 +1,15 @@
+Anais Castañeda Martinez 
+Actividad 1: algoritmo para preparar hotcakes 
+1. Comprar ingredientes
+- Leche 
+- Huevo 
+- Harina 
+- Mantequilla 
+- Vainilla
+2. Vertir todos los ingredientes en un recipiente
+3. Mezclarlos
+4. Calentar sarten 
+5. Vaciar el contenido de forma circular 
+6. Esperar a calentar de ambos lados cada hotcake 
+7. Servir
+8. Agregar mermelada, lechera o cajeta para hacerlos dulces
