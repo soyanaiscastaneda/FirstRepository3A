@@ -1,0 +1,31 @@
+29 de septiembre de 2021 
+Actividad: Crear un algoritmo para obtener el promedio de 5 calificaciones 
+El programa deberia mostrar lo siguiente: 
+Dame la calificación 1: 
+7
+Dame la calificación 2: 
+8
+Dame la calificación 3: 
+9
+Dame la calificación 4: 
+10 
+Dame la calificación 5: 
+6
+Dadas tus calificaciónes, tu promedio seria de 8
+
+Algoritmo
+1. Inicio
+2. Definir calificación 1, calificación 2, calificación 3, calificación 4, calificación 5, promedio
+3. Imprimir "Dame la calificación 1:"
+4. Hacer Calificación 1 = entrada del usuario 
+5. Imprimir "Dame la calificación 2:"
+6. Hacer Calificación 2 = entrada del usuario 
+7. Imprimir "Dame la calificación 3:"
+8. Hacer Calificación 3 = entrada del usuario 
+9. Imprimir "Dame la calificaciín 4:" 
+10. Hacer Calificación 4 = entrada del usuario 
+11. Imprimir "Dame la calificación 5:"
+12. Hacer Calificación 5 = entrada del usuario 
+13. Hacer promedio = (calificación 1 + calificación 2 + calificación 3 + calificación 4 + calificación 5) / 5
+14. Imprimir "Dadas tus calificaciónes, tu promedio seria de 8" 
+14. Fin 
