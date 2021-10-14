@@ -1,0 +1,30 @@
+13 de Octubre de 2021
+
+Algoritmo
+1. Inicio 
+2. Definir edad del usuario, edad de retiro deseada, cantidad de años faltantes para el retiro, año de retiro 
+3. Imprimir "Ingrese su edad:"
+4. Hacer ingreso de edad = entrada del usuario 
+5. Imprimir "Ingrese edad en la que desea retirarse:"
+6. Hacer ingreso de la edad en la que se desee retirar = entrada del usuario 
+7. Imprimir "Ingrese el año actual:"
+8. Hacer ingreso del año = entrada del usuario 
+9. Imprimir "Esta es la cantidad de años faltantes para su retiro:" 
+10. Hacer ingreso de resultado = programación 
+11. Imprimir "En este año se retirara:" 
+12. Hacer ingreso del año en el que se retira = programación
+13. Fin 
+
+Ejemplo: 
+1. Inicio 
+2. Ingrese su edad: 
+3. 21
+4. Ingrese edad en la que desea retirarse: 
+5. 65
+6. Ingrese año actual: 
+7. 2021
+8. Esta es la cantidad de años faltantes para su retiro: 
+9. 44 años 
+10. En este año se retirara: 
+11. 2065
+12. Fin 
